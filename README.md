@@ -20,11 +20,3 @@ Contact me here:
   * python
   * tkinter & ctk
   * learning
-
-
-<h2> <img src="https://i.pinimg.com/originals/ac/ac/88/acac88f816d150f77195ce2f04be188a.gif" width="100" /> Gifs </h2>
-<img src="https://media.tenor.com/ULt1QoO_tc0AAAAm/cat-vibe-vibe-cat.webp" width="50" />
-<img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="50" />
-<img src="https://i.pinimg.com/originals/99/5a/b6/995ab6fe6df94519d14823b6b35f42d3.gif" width="50" />
-<img src="https://i.pinimg.com/originals/a5/ad/ed/a5aded247f0df194176c5e8c6f26f9bf.gif" width="50" />
-<img src="https://i.pinimg.com/originals/fe/a2/5a/fea25a8a50009993c99a5b50f170224b.gif" width="50" />
