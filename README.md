@@ -6,7 +6,7 @@ I'm **Lee**, from **Germany**, I'm currently learning how to code. I like design
 Contact me here: 
 <a href="https://frostyblossom.carrd.co/"> Website</a>
 
-<h3> Hobbies </h3>
+<h3><img src="https://i.pinimg.com/originals/ae/4f/78/ae4f78962756b92ec19b2a184e445be2.gif" width="50" /> Hobbies </h3>
 
 - gaming
   * Shooter (Marvel Rivals, Valorant, ...)
@@ -20,3 +20,7 @@ Contact me here:
   * python
   * tkinter & ctk
   * learning
+
+<p align="center">
+    <img width="1000" src="https://i.pinimg.com/736x/9e/93/d7/9e93d772ac3148698c0cc0b8fd4d104e.jpg">
+</p>
