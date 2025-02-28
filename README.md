@@ -22,5 +22,5 @@ Contact me here:
   * learning
 
 <p align="center">
-    <img width="1000" src="https://i.pinimg.com/736x/9e/93/d7/9e93d772ac3148698c0cc0b8fd4d104e.jpg">
+    <img width="10000" src="https://i.pinimg.com/736x/99/f7/38/99f7388ee6c4ee95e2f074b0e7c9d94b.jpg">
 </p>
