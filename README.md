@@ -10,8 +10,8 @@ Contact me here:
 
 - gaming
   * Shooter (Marvel Rivals, Valorant, ...)
-  * MMO's (BDO, Throne and Liberty, ...)
-- reading
+  * MMO's (MH, BDO, Throne and Liberty)
+- reading (mainly manga)
 - design
   * Figma
   * Canvas
