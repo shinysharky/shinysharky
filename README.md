@@ -19,7 +19,7 @@ Contact me here:
 - coding
   * python
   * tkinter & ctk
-  * learning
+  * learning pyQt6
 
 <p align="center">
     <img width="10000" src="https://i.pinimg.com/736x/99/f7/38/99f7388ee6c4ee95e2f074b0e7c9d94b.jpg">
