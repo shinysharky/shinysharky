@@ -4,7 +4,8 @@ I'm **Lee**, from **Germany**, I'm currently learning how to code. I like design
 
 <img src="https://i.pinimg.com/originals/d3/b1/95/d3b19545ff8ad50358ba0c7163e5b1c2.gif" width="50" />
 Contact me here: 
-<a href="https://shinyshark.de/"> Website</a>
+
+ - discord: shiny_shark 
 
 <h3><img src="https://i.pinimg.com/originals/ae/4f/78/ae4f78962756b92ec19b2a184e445be2.gif" width="50" /> Hobbies </h3>
 
