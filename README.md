@@ -22,6 +22,15 @@ Contact me here:
   * tkinter & ctk
   * learning pyQt6
 
+<h3><img src="https://i.pinimg.com/originals/b4/62/88/b46288eb5855d884538b5db198c7906e.gif" width="50" /> Projects</h3>
+
+- Discord Bot  
+  * Kaoru  
+  * more info: [GitHub](https://github.com/shinysharky/kaoru_public)
+- Sleep Tracker
+  * Moondrift
+  * more info: [GitHub](https://github.com/shinysharky/MoonDrift)
+
 <p align="center">
     <img width="10000" src="https://i.pinimg.com/736x/99/f7/38/99f7388ee6c4ee95e2f074b0e7c9d94b.jpg">
 </p>
