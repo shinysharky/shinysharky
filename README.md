@@ -3,23 +3,19 @@
 # ૮Ꮚ 🍀┊about me:
 
 hello! 🩶  
-╰﹒my name is **Lee** and I'm learnign how to **code** 📓
 
 
 ### <img src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif" width="50" /> ✦・┊🍃꒱ projects & expirience
 - **languages** :  german & english
 - **coding** :  Python, Tkinter&CTk, Pyside6, Discord
 - **design** :  Figma, Canvas, Procreate
-- **My Discord Bot** :  Kaoru [GitHub](https://github.com/shinysharky/kaoru_public)
-- **Sleeptracker** : Moondrift [GitHub](https://github.com/shinysharky/MoonDrift) (Frontend only)
 
 ### <img src="https://i.pinimg.com/originals/37/8e/45/378e452a0664fbe6b2409bb42a8e06bb.gif" width="50" /> ✦・┊🍵꒱ hobbies & others
 - **gaming** :  Marvel Rivals, Valorant, MMO's
 - **reading** :  Manga
 - **TV Shows** : Grey's Anatomy, Bridgerton, ...
 
-### <img src="https://i.pinimg.com/originals/c9/7b/14/c97b1454c6229d84ae23871dc2b402eb.gif" width="50" /> ✦・┊🐉꒱ contact
-◟ **discord 🌿** : shiny_shark
+### <img src="https://i.pinimg.com/originals/c9/7b/14/c97b1454c6229d84ae23871dc2b402eb.gif" width="50" />
 
 ↷.˚ tysm for reading this, goodbye! 🍙
 
