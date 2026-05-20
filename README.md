@@ -7,7 +7,7 @@ hello!
 
 ### <img src="https://64.media.tumblr.com/c1725513ff083785a0b58662d9b9c31d/5cbd25ce511e355f-7e/s250x400/7e3b405ef8da4df1b61175ec391078107cebf4f2.gifv" width="50" /> ✦・┊꒱ projects & expirience
 - **languages** :  german & english
-- **coding** :  Python, Tkinter&CTk, Pyside6, Discord
+- **coding** :  HTML, CSS, JS, Python, Tkinter&CTk, Pyside6, Discord
 - **design** :  Figma, Canvas, Procreate
 
 ### <img src="https://64.media.tumblr.com/26413fb56ccedb75e4be2d7a6b2b5c54/5cbd25ce511e355f-92/s250x400/fd8c8616c807b0a88e645ea81d02e51c93d803a7.gifv" width="50" /> ✦・┊꒱ hobbies & others
