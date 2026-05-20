@@ -1,4 +1,4 @@
-<h1> <img width="10000" src="https://i.pinimg.com/1200x/32/be/57/32be5713ce12fae4c80c028d75710129.jpg" width="100" />  </h1>
+<h1> <img width="10000" src="https://i.pinimg.com/736x/6d/3f/a5/6d3fa515acd7c05cbcf6d0985b9b8bec.jpg">  </h1>
 
 # ૮Ꮚ ┊about me:
 
@@ -19,5 +19,5 @@ hello!
 
 
 <p align="center">
-    <img width="10000" src="https://i.pinimg.com/736x/bd/b8/3b/bdb83b7a19de366ae9325361040062ad.jpg">
+    <img width="10000" src="https://i.pinimg.com/1200x/1a/47/ca/1a47ca1c4a332a7c4c7b4d7581704ef6.jpg">
 </p>
