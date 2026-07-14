@@ -9,7 +9,7 @@ hello!
 - **languages** :  german & english
 - **coding** :  HTML, CSS, JS, Python, Tkinter&CTk, Pyside6, Flutter, Discord, some Dart
 - **design** :  Figma, Canvas, Procreate
-- **current project** :  I am currently working on my Sleeptracker "Moondrift" whitch I am developing to be an android app using dart and flutter.. It is not ready to be shared yet but feel free to check out its [read me](https://github.com/shinysharky/MoonDrift) !!
+- **current project** :  I am currently working on my Sleeptracker "Moondrift" which I am developing to be an android app using dart and flutter.. It is not ready to be shared yet but feel free to check out its [read me](https://github.com/shinysharky/MoonDrift) !!
 
 ### <img src="https://99gifshop.neocities.org/items/3/image010.gif" width="50" /> ✦・┊꒱ hobbies
 - **[gaming](https://steamcommunity.com/profiles/76561199068522365)** :  competitive hero shooter (Marvel Rivals, Overwatch), survival games, ...
