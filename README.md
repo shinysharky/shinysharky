@@ -13,7 +13,7 @@ hello!
 
 ### <img src="https://99gifshop.neocities.org/items/3/image010.gif" width="50" /> ✦・┊꒱ hobbies
 - **[gaming](https://steamcommunity.com/profiles/76561199068522365)** :  competitive hero shooter (Marvel Rivals, Overwatch), survival games, ...
-- **[reading](https://app.thestorygraph.com/profile/shinyshark)** :  Manga, AO3
+- **[reading](https://app.thestorygraph.com/profile/shinyshark)** :  Manga
 
 ### <img src="https://99gifshop.neocities.org/items/3/image012.gif" width="50" />↷.˚ tysm for reading this, goodbye!
 
